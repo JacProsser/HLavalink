@@ -1,6 +1,6 @@
 server:
-  port: 80
-  address: 54.72.45.84
+  port: 2333
+  address: 0.0.0.0
 spring:
   main:
     banner-mode: log
